@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="horizontal"
+    android:padding="25dp"
+    android:paddingStart="25dp">
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="12dp"
+        android:padding="25dp"
+        android:text=""
+        android:textColor="@color/black"
+        android:fontFamily="@font/balsamiq_sans"
+        android:textSize="25sp">
+
+    </TextView>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="300dp"
+        android:layout_marginTop="12dp"
+        android:fontFamily="sans-serif"
+        android:spinnerMode="dropdown"
+        android:textSize="25sp">
+
+    </Spinner>
+
+    <Button
+        android:id="@+id/btn"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton.Icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="300dp"
+        android:layout_marginTop="12dp">
+
+    </Button>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

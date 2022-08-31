@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/FragmentosListaRecicler/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1975" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/FragmentosListaRecicler/app/src/main/res/drawable/ic_arrow_back.xml" value="0.1975" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/FragmentosListaRecicler/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/FragmentosListaRecicler/app/src/main/res/layout/activity_main.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/FragmentosListaRecicler/app/src/main/res/layout/adapter_button.xml" value="0.1" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/FragmentosListaRecicler/app/src/main/res/layout/fragment_recicler.xml" value="0.264" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/FragmentosListaRecicler/app/src/main/res/layout/fragment_registro.xml" value="0.1" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/FragmentosListaRecicler/app/src/main/res/layout/fragment_resumen.xml" value="0.203125" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/FragmentosListaRecicler/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/FragmentosListaRecicler/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/app/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/app/src/main/res/layout/adapter_button.xml" value="0.203125" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/app/src/main/res/layout/fragment_recicler.xml" value="0.203125" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/app/src/main/res/layout/fragment_registro.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20 con lista recicler/app/src/main/res/layout/fragment_resumen.xml" value="0.203125" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20/app/src/main/res/layout/activity_main.xml" value="0.2709447415329768" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20/app/src/main/res/layout/activity_registro.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20/app/src/main/res/layout/activity_resumen.xml" value="0.15" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20/app/src/main/res/layout/fragment_principal.xml" value="0.109375" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20/app/src/main/res/layout/fragment_recicler.xml" value="0.10260416666666666" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20/app/src/main/res/layout/fragment_registro.xml" value="0.165625" />
+        <entry key="..\:/Users/cbarajas/Documents/AndroidCurso/PracticaFragmentos20/app/src/main/res/layout/fragment_resumen.xml" value="0.165625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
