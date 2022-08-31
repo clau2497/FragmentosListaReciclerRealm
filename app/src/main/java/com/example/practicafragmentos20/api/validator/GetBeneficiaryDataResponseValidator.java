@@ -5,7 +5,7 @@ import com.example.practicafragmentos20.api.vo.GetBeneficiaryResponse;
 public class GetBeneficiaryDataResponseValidator extends ResponseValidator<GetBeneficiaryResponse> {
     @Override
     public boolean validate(GetBeneficiaryResponse response) {
-       /* if (response == null) {
+        if (response == null) {
             return false;
         }
 
@@ -15,7 +15,7 @@ public class GetBeneficiaryDataResponseValidator extends ResponseValidator<GetBe
 
         if (response.getListaBeneficiarios().isEmpty()) {
             return false;
-        }*/
+        }
 
         return true;
     }

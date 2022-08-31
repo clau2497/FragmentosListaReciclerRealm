@@ -105,9 +105,10 @@ public class Recicler extends NavigationAdapter.Fragment implements SearchBenefi
     */
 
     //llenar lista y guardar en base Realm
+    //aqui se procesan los datos sel servicio
     @RequiresApi(api = Build.VERSION_CODES.N)
     private void llenarLista(GetBeneficiaryResponse beneficiaryResponse) {
-       // PersonaDAO.addAll(beneficiaryResponse);
+       PersonaDAO.addAll(beneficiaryResponse);
        // PersonaDAO.getAll(beneficiaryResponse);
         GetBeneficiaryResponse respuestaBeneficiarios = PersonaDAO.getAll();
         ArrayList<modeloTipoBoton> listaData = new ArrayList<>();
@@ -142,7 +143,7 @@ public class Recicler extends NavigationAdapter.Fragment implements SearchBenefi
         BeneficiaryRequest beneficiaryRequest = new BeneficiaryRequest();
         beneficiaryRequest.setPersonId(152005990L);
         //AQUI SE MANDAN LOS DATOS
-        beneficiaryRequest.setRoleKey(2);
+        beneficiaryRequest.setRoleKey(6);
         presenter.beneficiariesSearch(beneficiaryRequest);
         setResettable(true);
 
@@ -150,7 +151,7 @@ public class Recicler extends NavigationAdapter.Fragment implements SearchBenefi
         PersonaDAO persona = new PersonaDAO();
        // persona.clear();
         GetBeneficiaryResponse ben = new GetBeneficiaryResponse();
-       // llenarLista(ben);
+       //llenarLista(ben);
 
     }
 
